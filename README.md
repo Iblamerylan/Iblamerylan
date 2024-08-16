@@ -1,2 +1,3 @@
 - 👋 Hi, I’m Rylan
-- 
+- 👀 I am interested in backend development
+- 📕 Currently learning c++
